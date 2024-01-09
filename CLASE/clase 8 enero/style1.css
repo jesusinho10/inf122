@@ -1,0 +1,33 @@
+body {
+    font-family: nunito;
+    line-height: 1.6;
+    margin: 0;
+}
+
+h1 {
+    color: #000000;
+}
+
+p {
+    color: #000000;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+:root {
+    --white: #ffffff;
+    --black: #000000M;
+    --purple: #6F2CFF;
+    --light-purple: #EDE9F9;
+    --red-heart: #A50954;
+    --blue-heart: #ACD9B2;
+    --sm: 14px;
+    --md: 20px;
+    --lg: 60px;
+}
