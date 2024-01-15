@@ -8,6 +8,12 @@ function Boton({ texto, esBotonClick, funcionClick }) {
             {texto}
         </button>
     )
+    return (
+        <button className={esBotonClick ? "boton-desaparece"}
+            onClick={funcionClick}>
+            {texto}
+        </button>
+    )
 }
 
 export default Boton;
