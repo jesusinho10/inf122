@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(183, 176, 255, 0.911);
+}
+.cuadro {
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgb(1, 0, 24);
+    font-size: 50px;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    background-color: rgba(22, 2, 136, 0.856);
+}

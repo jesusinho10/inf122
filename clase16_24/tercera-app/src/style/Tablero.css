@@ -1,0 +1,15 @@
+.tablero {
+  
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+.juego {
+    display: flex;
+    margin: 10px;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(197, 186, 255, 0.705);
+}
