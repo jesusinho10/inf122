@@ -4,6 +4,7 @@
     height: 100vh;
     justify-items: center;
     align-items: center;
+    background-color: rgb(8, 22, 145);
   }
   
   .contenedor-principal {
@@ -25,3 +26,4 @@
     grid-template-rows: repeat(2, 1fr);
     align-items: center;
   }
+  
