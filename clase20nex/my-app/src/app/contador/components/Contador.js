@@ -5,6 +5,6 @@ function Contador({ nroClicks, mostrar }) {
     return (
         mostrar ? <div className={style.contador}>{nroClicks}</div> : null
     );
-}
+}t 
 
 export default Contador;
